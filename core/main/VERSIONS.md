@@ -61,3 +61,17 @@ This version is meant to replace `karen_2.0.py` as the foundation for all future
  - definitely did NOT learn how to launch this window without asking, actually opened an empty version somehow that we now can't find? If you see that, no you didn't. 
 
 
+## [2025-06-02] Assets Directory Established
+
+- 🧰 Standardized asset folders:
+  - `Calibration/` for camera alignment reference frames
+  - `Photos/` for UI-linked visual assets
+  - `Recordings/` for video/audio sessions
+  - `snapshots/` for automated memory capture frames
+- 🧼 Moved any loose assets into correct subfolders
+- 🗂️ Confirmed directory integrity for cross-module linking
+- opened it ALMOST without looking...also I might have already done this for assets, or maybe I just did a preliminary organization...I can't remember. moving right along..."
+
+
+- 🖼️ Verified asset hygiene — confirmed all image and video files live inside `/assets/`; none floating outside.
+- boo yah baby
