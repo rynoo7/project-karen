@@ -23,3 +23,13 @@ A refined, modular rewrite of Karen's interactive garage interface. This version
 
 ### Notes:
 This version is meant to replace `karen_2.0.py` as the foundation for all future garage interface development.
+
+
+---
+
+## [2025-06-02] Assets Folder Overhaul
+
+- 🎨 Moved all media files (photos, calibration frames, snapshots, and recordings) into the new `assets/` directory
+- 🧭 Created subfolders: `Calibration/`, `Photos/`, `Recordings/`, `snapshots/`
+- 🪪 Added `README.md` to explain the structure and purpose of `assets/`
+- ✅ Cleaned up misfiled assets from other folders
