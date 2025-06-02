@@ -2,7 +2,8 @@ import cv2
 import os
 
 # Create folder for calibration frames
-calib_dir = "/home/ryn007/Programs/Karen/Calibration"
+calib_dir = "/home/lynnsanity/Karen/assets/Calibration"
+
 os.makedirs(calib_dir, exist_ok=True)
 
 # Open webcam

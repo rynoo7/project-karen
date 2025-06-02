@@ -41,3 +41,8 @@ This version is meant to replace `karen_2.0.py` as the foundation for all future
 - Added new README with descriptions and usage details
 
 
+### [2025-06-02] Lynnsanity
+- 🛠 Updated `karen_calibrate.py` to reflect new assets path:
+  `/home/lynnsanity/Karen/assets/Calibration` replaces hardcoded `/home/ryn007/...`
+
+
