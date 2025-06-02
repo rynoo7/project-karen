@@ -75,3 +75,6 @@ This version is meant to replace `karen_2.0.py` as the foundation for all future
 
 - 🖼️ Verified asset hygiene — confirmed all image and video files live inside `/assets/`; none floating outside.
 - boo yah baby
+
+- 🧹 Emptied `chatty_files/` — confirmed it only contains temporary transfer files and is now clean.
+- this feels like a redudant log entry, but hey I love a good back-patting as much as the next guy (shrug)
