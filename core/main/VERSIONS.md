@@ -33,3 +33,11 @@ This version is meant to replace `karen_2.0.py` as the foundation for all future
 - 🧭 Created subfolders: `Calibration/`, `Photos/`, `Recordings/`, `snapshots/`
 - 🪪 Added `README.md` to explain the structure and purpose of `assets/`
 - ✅ Cleaned up misfiled assets from other folders
+
+
+### [tools/] Folder - Initial Documentation
+
+- Verified and documented `delete_tool.py` and `search_tool.py`
+- Added new README with descriptions and usage details
+
+
