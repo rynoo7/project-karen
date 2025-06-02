@@ -29,7 +29,7 @@ This folder is split into three areas to make collaboration and experimentation 
 | `karen_2.0.py`       | Original second-gen file before cleanup. Legacy.                                       |
 | `bk.py`              | Possibly base kernel or shorthand entry point. Content TBD.                            |
 
-Refer to `VERSIONS.md` for detailed diffs and history tracking!
+Refer to the project-wide `VERSIONS.md` (now located in the root `/Karen` folder) for detailed diffs and history tracking!
 
 ---
 
@@ -61,7 +61,7 @@ python3 karen-core-v2.0.py
 When working on this folder:
 
 1. Create new versions inside the `experimental/` folder first
-2. Log major updates in `VERSIONS.md`
+2. Log major updates in the root-level `VERSIONS.md`
 3. Rename stable files and move them to `main/` when ready
 
 ---
