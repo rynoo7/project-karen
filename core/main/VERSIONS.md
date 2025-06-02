@@ -46,3 +46,18 @@ This version is meant to replace `karen_2.0.py` as the foundation for all future
   `/home/lynnsanity/Karen/assets/Calibration` replaces hardcoded `/home/ryn007/...`
 
 
+### [2025-06-02] Organized data/ Folder
+
+- 📦 Confirmed layout and use of `data/zones/` for zone export files
+- 🧾 Added `README.md` to clarify its purpose as a raw data container
+ - still trying to remember how to open and edit this thing without asking...fucking nano thing
+
+## [2025-06-02] Folder Organization: Database
+
+- 🧰 Moved all database scripts into `/database/`
+- 🧾 Created README for database folder
+- 🧠 Left active user-facing scripts like `search_tool.py` and `delete_tool.py` in `/tools/` for now
+
+ - definitely did NOT learn how to launch this window without asking, actually opened an empty version somehow that we now can't find? If you see that, no you didn't. 
+
+
